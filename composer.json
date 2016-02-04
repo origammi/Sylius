@@ -1,5 +1,5 @@
 {
-    "name": "sylius/sylius",
+    "name": "origammi/sylius",
     "type": "project",
     "description": "E-Commerce platform for PHP, based on Symfony framework.",
     "license": "MIT",
